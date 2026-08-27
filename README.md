@@ -9,6 +9,9 @@ The goal of this project is to explore how machine learning can be used to predi
 The project uses the Students Performance dataset and builds regression models to predict a student's writing score based on other available features.
 
 The project also compares multiple machine learning algorithms and evaluates their performance using Mean Absolute Error (MAE) and R² score.
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EmanFatima206/student-performance-prediction/blob/main/student-performance-prediction.ipynb)
 
 ## Objective
 
