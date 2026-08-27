@@ -131,3 +131,16 @@ MAE & R² Evaluation
 Actual vs Predicted Visualization
    ↓
 Cross-Validation
+
+## How to Run
+
+### Google Colab
+
+1. Open the Jupyter Notebook.
+2. Upload the `StudentsPerformance.csv` dataset when prompted.
+3. Run the notebook cells sequentially.
+
+
+
+
+
