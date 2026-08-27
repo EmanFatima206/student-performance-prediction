@@ -139,11 +139,9 @@ Cross-Validation
 
 ### Google Colab
 
-1. Open the Jupyter Notebook.
-2. Upload the `StudentsPerformance.csv` dataset when prompted.
-3. Run the notebook cells sequentially.
-
-
+1. Open the notebook in Google Colab using the **Open in Colab** button above.
+2. Run the notebook cells sequentially.
+3. The dataset is loaded automatically from the GitHub repository.
 
 
 
